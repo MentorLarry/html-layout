@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav {
+  height: 10vh;
+  background-color: #aaa;
+  padding: 10px 20px;
+}
+
+.logo {
+  height: 100%;
+  width: 120px;
+  background-color: rgb(52, 128, 199);
+}
+
+.content {
+  height: 30vh;
+  padding: 30px;
+  font-size: 20px;
+  font-family: sans-serif;
+  line-height: 1.5em;
+}
+
+.bar {
+  height: 15vh;
+}
+
+.blue {
+  background-color: rgb(0, 119, 255);
+}
+
+.cyan {
+  background-color: rgb(0, 255, 179);
+}
+
+.green {
+  background-color: rgb(127, 190, 127);
+}
+
+.yellow {
+  background-color: yellow;
+}
